@@ -1,8 +1,5 @@
-# 内容：OpenAi Bard anthropic
+# 内容：自定义不走clash的域名
 # 域名关键字匹配
-# DOMAIN-KEYWORD,openai
-# DOMAIN-KEYWORD,anthropic
-# DOMAIN-KEYWORD,Claude
 # DOMAIN-KEYWORD,openrouter
 # 域名后缀匹配
 
