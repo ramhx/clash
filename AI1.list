@@ -32,5 +32,7 @@ DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,bortzmeyer.org
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
