@@ -4,4 +4,5 @@
 # 域名后缀匹配
 
 DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,unraid.net
 IP-CIDR,185.199.108.133/24,no-resolve
