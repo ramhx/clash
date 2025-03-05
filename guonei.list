@@ -1,3 +1,4 @@
 # 自定义国内直连
-DOMAIN-SUFFIX,dashscope.aliyuncs.com
-DOMAIN-SUFFIX,api.siliconflow.cn
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,siliconflow.cn
+DOMAIN-SUFFIX,deepseek.com
