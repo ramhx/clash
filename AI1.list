@@ -1,8 +1,8 @@
-cloudcode-pa.googleapis.com
-generativanguage.googleapis.com
-docker.io
-qoder.com
-tracing-analysis-dc-sg.aliyuncs.com
-qoder.sh
-cloudauth-device-dualstack.ap-southeast-1.aliyuncs.com
-daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,generativanguage.googleapis.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,qoder.com
+DOMAIN-SUFFIX,tracing-analysis-dc-sg.aliyuncs.com
+DOMAIN-SUFFIX,qoder.sh
+DOMAIN-SUFFIX,cloudauth-device-dualstack.ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX,daily-cloudcode-pa.sandbox.googleapis.com
